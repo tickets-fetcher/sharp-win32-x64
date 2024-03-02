@@ -27,10 +27,4 @@
     "./package": "./package.json",
     "./versions": "./versions.json"
   },
-  "os": [
-    "win32"
-  ],
-  "cpu": [
-    "x64"
-  ]
 }
