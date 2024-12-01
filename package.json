@@ -26,5 +26,5 @@
     "./sharp.node": "./lib/sharp-win32-x64.node",
     "./package": "./package.json",
     "./versions": "./versions.json"
-  },
+  }
 }
